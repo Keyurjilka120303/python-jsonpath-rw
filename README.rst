@@ -5,7 +5,7 @@ https://github.com/kennknowles/python-jsonpath-rw
 
 |Build Status| |Test coverage| |PyPi version| |PyPi downloads|
 
-This library provides a robust and significantly extended implementation
+This library provides an robust and significantly extended implementation
 of JSONPath for Python. It is tested with Python 2.7, 3.4, 3.5, 3.6, 3.7, pypy and pypy3. 
 
 This library differs from other JSONPath implementations in that it is a
